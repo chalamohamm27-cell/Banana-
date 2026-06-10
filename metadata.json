@@ -1,0 +1,6 @@
+{
+  "name": "Banana",
+  "description": "A modern short-video social media platform with a vertical video feed, advanced editing tools, private encrypted messaging, and AI content assistants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
